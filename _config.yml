@@ -2,7 +2,6 @@ title: Mathilde ter Veen
 description: Data Scientist - Project Manager
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-cayman
 remote_theme: tuur29/pages-themes-cayman
 google_analytics_anonymize: false
 darkmode: false
