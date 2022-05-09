@@ -4,6 +4,6 @@ Ik help organisaties graag oplossingen te zien, waar anderen niet verder komen e
 
 ## IK BEN ALTIJD OP ZOEK NAAR NIEUWE KANSEN
 
-Bel mij 06 546 560 63
+Bel mij 06 546 560 63 <br />
 E-mail mij mathilde@terveen.eu
 
