@@ -1,9 +1,13 @@
-### LIEFDE VOOR MENS EN DATA
+### I LOVE PEOPLE <ins>AND</ins> DATA
 
-Ik help organisaties graag oplossingen te zien, waar anderen niet verder komen en help de missie van uw organisatie waar te maken. Dit doe ik door de problemen goed in kaart te brengen aan de hand van keiharde data, de potentie te zien van u, uw medewerkers en collega’s en deze ook daadwerkelijk te benutten. Dit alles met als achtergrond 12 jaar projectervaring in verschillende rollen binnen data-intensieve organisaties, met name in de sectoren gezondheidszorg, energiehandel en ICT.
+Currently, I am studying full time to improve my skills in data science and writing a masterthesis about the way NLP models make use of analogies. I love to broaden my knowledge further in the area of NLP, especially within healthcare. 
 
-### IK BEN ALTIJD OP ZOEK NAAR NIEUWE KANSEN
+In the past 14 years, I helped to find solutions in projects, where others did not see them anymore. I did this by identifying the problems using data and seeing the possibilities in you, your employees and colleagues. I have a background in different project and changemanagement roles within data-intensive organizations, especially in the health, energy and ICT.
 
-Bel mij 06 546 560 63 <br />
-E-mail mij mathilde@terveen.eu
+Project management | Interim Management | Health Care | Energy Trading | ICT Infrastructure | Data Science  | Machine Learning | R | Python | SQL
+
+### IF I COULD HELP YOU IN DEVELOPING DATASCIENCE WITHIN YOUR COMPANY
+
+Call me 06 546 560 63 <br />
+E-mail me mathilde@terveen.eu
 
