@@ -1,11 +1,10 @@
-#### I LOVE PEOPLE <ins>AND</ins> DATA
+#### BEHAVIORAL DATA SCIENTIST WITH A LOVE FOR PEOPLE, PROJECTS, AND AI MODELS
 
-Currently, I am studying full time to improve my skills in data science and writing a masterthesis about the way NLP models make use of analogies. I love to broaden my knowledge further in the area of NLP, especially within healthcare. 
+How can artificial intelligence models, like ChatGPT, help you in your life, job, and organization to make it better? Where do humans do a better job and where do AI models fail? These questions have been the focus of my research in the last years, and I can help you in answering them for you or your organization. But I also realize that much of it is still unknown, and further research is needed on this topic, which I am eager to contribute to. 
 
-In the past 14 years, I helped to find solutions in projects, where others did not see them anymore. I did this by identifying the problems using data and seeing the possibilities in you, your employees and colleagues. I have a background in different project and changemanagement roles within data-intensive organizations, especially in the health, energy and ICT.
+Apart from my research experience, I also bring with me 15 years of expertise in various project and change management roles in data-intensive organizations, particularly in the healthcare, energy, and ICT sectors. This gives me a unique blend of technical skills, research abilities, and organizational problem-solving capabilities.
 
-#### IF I COULD HELP YOU IN DEVELOPING DATASCIENCE WITHIN YOUR COMPANY
+#### Do you want to know more?
 
-Call me 06 546 560 63 <br />
-E-mail me mathilde@terveen.eu
+E-mail me mathilde_ter_veen@outlook.com
 
